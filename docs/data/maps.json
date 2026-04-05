@@ -1,0 +1,19 @@
+[
+  {
+    "id": "test",
+    "parent_id": null,
+    "slug": "test-map",
+    "title": "Test map",
+    "description": "Test",
+    "min_zoom": 3,
+    "max_zoom": 5,
+    "initial_lat": 0,
+    "initial_lng": 0,
+    "initial_zoom": 3,
+    "tile_path_template": "maps/{map_id}/{z}/{x}/{y}.png",
+    "cover_image_url": null,
+    "is_published": true,
+    "created_at": "2026-04-05T00:00:00Z",
+    "updated_at": "2026-04-05T00:00:00Z"
+  }
+]
